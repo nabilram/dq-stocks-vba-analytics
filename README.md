@@ -4,7 +4,7 @@
 * Client is in need of data wrangling services for financial / stock price calculations
 * Client has provided functioning XLSM macro for their inital calculations
 * Client requests a refactoring of their XLSM macro for efficiency gains
-* XLSM file contianing source macro and refactored macro is found here: [Refactored XLSM Macro](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/green_stocks.xlsx) 
+* XLSM file contianing source macro and refactored macro is found here: [Refactored XLSM Macro](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/VBA_Challenge.xlsm) 
     * Source Macro is Sub "AllStocksAnalysis"
     * Output Macro is Sub "AllStocksAnalysisRefactored"
 
