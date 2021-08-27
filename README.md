@@ -10,10 +10,10 @@
 
 ### Methods
 * The use of nested for loops through arrays and assigned indices was utilized. 
-    * An Array ("tickers") for Stock price tickers was created
-    * An Index ("iTicker") was nested within the Array, to keep track/assign values to these tickers. 
+    * An Array ("tickers") for stock price ticker names (*strings*) was created
+    * An Index ("iTicker") was nested within the Array (*integer*), to keep track/assign values to these tickers. 
     * Conditional formatting was automated for ease of interpretation by user.
-    
+
 ### Before
 
 * Source macro had run time of _*0.844*_ seconds for 2017 and _*0.836*_ seconds for 2018. See below. 
