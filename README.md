@@ -34,11 +34,11 @@
     * 1 - (Refactored RunTime / Source Macro RunTime)
 
 ## Summary
-* Refactoring Advantages - Output Macro
+* Refactoring, Advantages - Output Macro
     * As seen above, **an ~80% efficency gain was achieved** with the same result data
     * Memory burden on one's machine is less -- as it needs to do less work/calculations
 
-* Not Refactoring Disadvantages - Source Macro
+* Not Refactoring, Disadvantages - Source Macro
     * 80% of run time is wasted
         * While this may seem small in seconds, if big data sets are used then this will result in minutes or hours of run time wasted
     * Redundancy in similar code design
@@ -46,7 +46,7 @@
         * This, however, does not take advantage coding best pracices
             * In this case, that missed best practice is: nesting similarly designed code - with indices, counters, and data levers
 
-* Refactoring Challenges - Domain Expertise
+* Refactoring, Challenges - Domain Expertise
     * A level of domain expertise on the nature, scope, and meaning of the data itself is of great importance
     * The deeper the domain expertise available the easier and more efficient the refactoring output is
     * In this challenge, more time was spent in understanding the finance data (and calculations needed) than the actual technicality of nested for loops
