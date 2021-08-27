@@ -20,11 +20,13 @@
 
 ### Before
 * Source macro had run times of _**0.844**_ seconds for 2017 and _**0.836**_ seconds for 2018. See below:
+
 ![Source_Macro_Runtime_2017](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/Before_Refactor_2017.PNG)
 ![Source_Macro_Runtime_2018](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/Before_Refactor_2018.PNG)
 
 ### After
 * Refactored macro had run times of _**0.160**_ seconds for 2017 and and _**0.164**_ seconds for 2018. See below:
+
 ![Output_Macro_Runtime_2017](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/VBA_Challenge_2017.PNG)
 ![Output_Macro_Runtime_2018](https://github.com/nabilram/dq-stocks-vba-analytics/blob/main/resources/VBA_Challenge_2018.PNG) 
 
